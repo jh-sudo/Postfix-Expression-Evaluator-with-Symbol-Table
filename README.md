@@ -1,4 +1,4 @@
-# 📘 Project: Postfix Expression Evaluator with Symbol Table
+# 📘 Postfix Expression Evaluator with Symbol Table
 
 ## 📝 Overview
 
